@@ -1,4 +1,4 @@
-# soundblock-backend
+# Soundblock
 
 ## Description du Projet
 
